@@ -1,5 +1,6 @@
-# UX Portfolio
+# Kevin's UX Portfolio
 
+![A photo of Kevin, the author of this portfolio](/assets/kevin-buffardi.jpg)
 
 ## UX Team Project
 
